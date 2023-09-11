@@ -1,0 +1,77 @@
+{
+	"skills": [
+		{
+			"id": "1",
+			"src": "./img/product-chain-1.png",
+			"title": "Front-End",
+			"description": "In the realm of Front-End Development, I specialize in crafting engaging and user-friendly web experiences. With a strong foundation in HTML, CSS, and JavaScript, I bring life to designs and ensure seamless interactions. My passion lies in creating responsive and visually stunning websites that captivate users."
+		},
+		{
+			"id": "2",
+			"src": "./img/tag-1.png",
+			"title": "Back-End",
+			"description": "In the world of Back-End Development, I excel at building robust and scalable server-side solutions that power modern web applications. My expertise extends to creating secure APIs, managing databases, and optimizing server performance. I take pride in crafting the invisible yet essential components that make web applications function seamlessly."
+		},
+		{
+			"id": "3",
+			"src": "./img/feather-pen-2.png",
+			"title": "UI & UX Design",
+			"description": "In the realm of UI/UX Design, I combine creativity with user-centric design principles to craft intuitive and visually appealing interfaces. My designs prioritize user experience, ensuring that every interaction feels natural and delightful. From wireframes to prototypes, I transform ideas into engaging digital experiences."
+		},
+		{
+			"id": "4",
+			"src": "./img/feather-pen-1.png",
+			"title": "Office Suite",
+			"description": "My proficiency in office productivity suites—Adobe Creative Suite, Google Suite, and Microsoft Office—enables me to excel in various tasks, both academic and professional. I utilize these tools for document creation, design, data analysis, and presentations. These versatile suites empower me to stay organized and efficient."
+		}
+	],
+	"portfolio": [
+		{
+			"id": "1",
+			"src": "./img/css-generators.png",
+			"title": "CSS Generators",
+			"description": "Online tools that make it easy to create different styles for websites.",
+			"link": "https://github.com/fssa-batch3/kishor.muruganandham__web_project"
+		},
+		{
+			"id": "2",
+			"src": "./img/lib.png",
+			"title": "Library Management",
+			"description": "A system to help libraries keep track of books and remind people when to return them.",
+			"link": "https://github.com/fssa-batch3/kishor.muruganandham__web_project_2"
+		},
+		{
+			"id": "3",
+			"src": "./img/question-forum.png",
+			"title": "Question Forum",
+			"description": "A website where people can ask questions and have discussions on various topics.",
+			"link": "https://github.com/Kishor-550/Question-Forum"
+		}
+	],
+	"testimonial": [
+		{
+			"id": "1",
+			"count": "5",
+			"src": "https://ca.slack-edge.com/T032648LE-U041V4TE3L3-272932b1eed7-192",
+			"description": "Kishor's journey from a curious learner to a skilled web developer is impressive. His adaptability and commitment are commendable.",
+			"author_name": "Kamalesh",
+			"author_designation": "Friend"
+		},
+		{
+			"id": "2",
+			"count": "5",
+			"src": "https://ca.slack-edge.com/T032648LE-U041ELXDT55-62bdf24b2dba-192",
+			"description": "Kishor's proficiency in coding and tools like Adobe, Google, and Microsoft makes him a versatile professional.",
+			"author_name": "Utchikanna",
+			"author_designation": "Friend"
+		},
+		{
+			"id": "3",
+			"count": "4",
+			"src": "https://ca.slack-edge.com/T032648LE-U041V83V1C2-377d30f89725-192",
+			"description": "Kishor's problem-solving skills and passion for technology shine through. His certifications and well-rounded interests make him an asset.",
+			"author_name": "Naveena Sri",
+			"author_designation": "Friend"
+		}
+	]
+}
